@@ -1,0 +1,470 @@
+Directories in use:
+  home:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0
+  config:       /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/conf
+  logs:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/logs
+  plugins:      /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/plugins
+  import:       /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/import
+  data:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/data
+  certificates: /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/certificates
+  run:          /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/run
+Starting Neo4j.
+2020-08-23 08:38:04.500+0000 INFO  Starting...
+2020-08-23 08:38:06.614+0000 INFO  ======== Neo4j 4.1.0 ========
+2020-08-23 08:38:10.121+0000 INFO  Sending metrics to CSV file at /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/metrics
+2020-08-23 08:38:10.154+0000 INFO  Bolt enabled on localhost:7687.
+2020-08-23 08:38:11.094+0000 INFO  Remote interface available at http://localhost:7474/
+2020-08-23 08:38:11.095+0000 INFO  Started.
+2020-08-23 08:48:09.697+0000 INFO  Neo4j Server shutdown initiated by request
+2020-08-23 08:48:09.697+0000 INFO  Stopping...
+Directories in use:
+  home:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0
+  config:       /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/conf
+  logs:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/logs
+  plugins:      /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/plugins
+  import:       /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/import
+  data:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/data
+  certificates: /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/certificates
+  run:          /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/run
+Starting Neo4j.
+2020-08-23 08:48:25.038+0000 INFO  Starting...
+2020-08-23 08:48:27.151+0000 INFO  ======== Neo4j 4.1.0 ========
+2020-08-23 08:48:30.168+0000 INFO  Sending metrics to CSV file at /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/metrics
+2020-08-23 08:48:30.212+0000 INFO  Bolt enabled on localhost:7687.
+2020-08-23 08:48:31.156+0000 INFO  Remote interface available at http://localhost:7474/
+2020-08-23 08:48:31.156+0000 INFO  Started.
+2020-08-23 09:19:32.616+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.Statement.ExecutionFailed]: java.net.URISyntaxException: Illegal character in path at index 10: file:/把nv作 copy, reference 1bfb63a9-476c-4e63-9be3-54737efa6ccb.
+2020-08-25 07:15:47.505+0000 INFO  Neo4j Server shutdown initiated by request
+2020-08-25 07:15:47.506+0000 INFO  Stopping...
+Directories in use:
+  home:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0
+  config:       /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/conf
+  logs:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/logs
+  plugins:      /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/plugins
+  import:       /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/import
+  data:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/data
+  certificates: /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/certificates
+  run:          /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/run
+Starting Neo4j.
+2020-08-25 07:15:48.983+0000 INFO  Starting...
+2020-08-25 07:15:51.252+0000 INFO  ======== Neo4j 4.1.0 ========
+2020-08-25 07:15:53.446+0000 INFO  Sending metrics to CSV file at /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/metrics
+2020-08-25 07:15:53.483+0000 INFO  Bolt enabled on localhost:7687.
+2020-08-25 07:15:54.387+0000 INFO  Remote interface available at http://localhost:7474/
+2020-08-25 07:15:54.387+0000 INFO  Started.
+2020-08-25 10:15:11.558+0000 WARN  The client is unauthorized due to authentication failure.
+2020-08-25 10:15:14.513+0000 WARN  The client is unauthorized due to authentication failure.
+2020-08-25 10:15:15.504+0000 WARN  The client is unauthorized due to authentication failure.
+2020-08-25 10:15:18.529+0000 WARN  The client has provided incorrect authentication details too many times in a row.
+2020-08-25 10:15:18.540+0000 WARN  The client has provided incorrect authentication details too many times in a row.
+2020-08-25 10:15:19.523+0000 WARN  The client has provided incorrect authentication details too many times in a row.
+2020-08-25 10:15:21.596+0000 WARN  The client is unauthorized due to authentication failure.
+2020-08-27 08:10:58.730+0000 INFO  Neo4j Server shutdown initiated by request
+2020-08-27 08:10:58.730+0000 INFO  Stopping...
+Directories in use:
+  home:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0
+  config:       /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/conf
+  logs:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/logs
+  plugins:      /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/plugins
+  import:       /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/import
+  data:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/data
+  certificates: /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/certificates
+  run:          /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/run
+Starting Neo4j.
+2020-08-27 08:11:00.190+0000 INFO  Starting...
+2020-08-27 08:11:02.374+0000 INFO  ======== Neo4j 4.1.0 ========
+2020-08-27 08:11:05.784+0000 INFO  Sending metrics to CSV file at /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/metrics
+2020-08-27 08:11:05.807+0000 INFO  Bolt enabled on localhost:7687.
+2020-08-27 08:11:06.662+0000 INFO  Remote interface available at http://localhost:7474/
+2020-08-27 08:11:06.662+0000 INFO  Started.
+2020-08-27 08:14:25.991+0000 INFO  Neo4j Server shutdown initiated by request
+2020-08-27 08:14:25.991+0000 INFO  Stopping...
+Directories in use:
+  home:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0
+  config:       /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/conf
+  logs:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/logs
+  plugins:      /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/plugins
+  import:       /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/import
+  data:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/data
+  certificates: /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/certificates
+  run:          /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/run
+Starting Neo4j.
+2020-08-27 08:14:27.404+0000 INFO  Starting...
+2020-08-27 08:14:29.627+0000 INFO  ======== Neo4j 4.1.0 ========
+2020-08-27 08:14:32.670+0000 INFO  Called db.clearQueryCaches(): Query cache already empty.
+2020-08-27 08:14:39.230+0000 INFO  Sending metrics to CSV file at /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/metrics
+2020-08-27 08:14:39.255+0000 INFO  Bolt enabled on localhost:7687.
+2020-08-27 08:14:40.029+0000 INFO  Remote interface available at http://localhost:7474/
+2020-08-27 08:14:40.030+0000 INFO  Started.
+2020-08-28 07:24:10.510+0000 INFO  Neo4j Server shutdown initiated by request
+2020-08-28 07:24:10.510+0000 INFO  Stopping...
+Directories in use:
+  home:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0
+  config:       /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/conf
+  logs:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/logs
+  plugins:      /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/plugins
+  import:       /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/import
+  data:         /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/data
+  certificates: /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/certificates
+  run:          /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/run
+Starting Neo4j.
+2020-08-28 07:25:18.230+0000 INFO  Starting...
+2020-08-28 07:25:20.677+0000 INFO  ======== Neo4j 4.1.0 ========
+2020-08-28 07:25:24.122+0000 INFO  Called db.clearQueryCaches(): Query cache already empty.
+2020-08-28 07:25:31.341+0000 INFO  Sending metrics to CSV file at /Users/jaesoon/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-8da21efb-56cb-45e9-9cb8-ca660353540f/installation-4.1.0/metrics
+2020-08-28 07:25:31.373+0000 INFO  Bolt enabled on localhost:7687.
+2020-08-28 07:25:32.301+0000 INFO  Remote interface available at http://localhost:7474/
+2020-08-28 07:25:32.301+0000 INFO  Started.
+2020-08-28 07:41:57.995+0000 WARN  Graph creation failed Invalid relationship projection, one or more relationship types not found: 'verb'
+java.lang.IllegalArgumentException: Invalid relationship projection, one or more relationship types not found: 'verb'
+	at org.neo4j.graphalgo.core.GraphDimensionsValidation.checkValidRelationshipTypePredicate(GraphDimensionsValidation.java:58)
+	at org.neo4j.graphalgo.core.GraphDimensionsValidation.validate(GraphDimensionsValidation.java:41)
+	at org.neo4j.graphalgo.core.loading.NativeFactory.build(NativeFactory.java:133)
+	at org.neo4j.graphalgo.core.GraphLoader.graphStore(GraphLoader.java:47)
+	at org.neo4j.graphalgo.catalog.GraphCreateProc.createGraph(GraphCreateProc.java:164)
+	at org.neo4j.graphalgo.catalog.GraphCreateProc.lambda$create$0(GraphCreateProc.java:80)
+	at org.neo4j.graphalgo.BaseProc.runWithExceptionLogging(BaseProc.java:98)
+	at org.neo4j.graphalgo.catalog.GraphCreateProc.create(GraphCreateProc.java:78)
+	at org.neo4j.kernel.impl.proc.GeneratedProcedure_create3039722635249319.apply(Unknown Source)
+	at org.neo4j.procedure.impl.ProcedureRegistry.callProcedure(ProcedureRegistry.java:208)
+	at org.neo4j.procedure.impl.GlobalProceduresRegistry.callProcedure(GlobalProceduresRegistry.java:323)
+	at org.neo4j.kernel.impl.newapi.AllStoreHolder.callProcedure(AllStoreHolder.java:966)
+	at org.neo4j.kernel.impl.newapi.AllStoreHolder.procedureCallRead(AllStoreHolder.java:869)
+	at org.neo4j.cypher.internal.runtime.interpreted.CallSupport$.$anonfun$callReadOnlyProcedure$2(CallSupport.scala:51)
+	at org.neo4j.cypher.internal.runtime.interpreted.CallSupport$.callProcedure(CallSupport.scala:98)
+	at org.neo4j.cypher.internal.runtime.interpreted.CallSupport$.callReadOnlyProcedure(CallSupport.scala:53)
+	at org.neo4j.cypher.internal.runtime.interpreted.TransactionBoundQueryContext.callReadOnlyProcedure(TransactionBoundQueryContext.scala:880)
+	at org.neo4j.cypher.internal.planning.ExceptionTranslatingQueryContext.callReadOnlyProcedure(ExceptionTranslatingQueryContext.scala:203)
+	at org.neo4j.cypher.internal.runtime.LazyReadOnlyCallMode.callProcedure(ProcedureCallMode.scala:52)
+	at org.neo4j.cypher.internal.runtime.interpreted.pipes.ProcedureCallPipe.call(ProcedureCallPipe.scala:87)
+	at org.neo4j.cypher.internal.runtime.interpreted.pipes.ProcedureCallPipe.$anonfun$internalCreateResultsByAppending$1(ProcedureCallPipe.scala:73)
+	at scala.collection.Iterator$$anon$11.nextCur(Iterator.scala:484)
+	at scala.collection.Iterator$$anon$11.hasNext(Iterator.scala:490)
+	at org.neo4j.cypher.internal.runtime.pipelined.operators.SlottedPipeHeadOperator$OTask.operate(SlottedPipeOperator.scala:151)
+	at org.neo4j.cypher.internal.runtime.pipelined.operators.OperatorWithInterpretedDBHitsProfiling.operateWithProfile(SlottedPipeOperator.scala:78)
+	at org.neo4j.cypher.internal.runtime.pipelined.PipelineTask.executeOperators(PipelineTask.scala:62)
+	at org.neo4j.cypher.internal.runtime.pipelined.PipelineTask.executeWorkUnit(PipelineTask.scala:52)
+	at org.neo4j.cypher.internal.runtime.pipelined.Worker.executeTask(Worker.scala:135)
+	at org.neo4j.cypher.internal.runtime.pipelined.Worker.workOnQuery(Worker.scala:91)
+	at org.neo4j.cypher.internal.runtime.pipelined.execution.CallingThreadExecutingQuery.request(CallingThreadExecutingQuery.scala:41)
+	at org.neo4j.cypher.internal.PipelinedRuntime$PipelinedRuntimeResult.request(PipelinedRuntime.scala:426)
+	at org.neo4j.cypher.internal.result.StandardInternalExecutionResult.request(StandardInternalExecutionResult.scala:99)
+	at org.neo4j.cypher.internal.result.ClosingExecutionResult.request(ClosingExecutionResult.scala:145)
+	at org.neo4j.fabric.stream.QuerySubject$BasicQuerySubject$1.doRequest(QuerySubject.java:184)
+	at org.neo4j.fabric.stream.QuerySubject$BasicQuerySubject$1.request(QuerySubject.java:167)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.request(Operators.java:2089)
+	at reactor.core.publisher.StrictSubscriber.request(StrictSubscriber.java:138)
+	at org.neo4j.fabric.stream.Rx2SyncStream$RecordSubscriber.request(Rx2SyncStream.java:129)
+	at org.neo4j.fabric.stream.Rx2SyncStream.maybeRequest(Rx2SyncStream.java:91)
+	at org.neo4j.fabric.stream.Rx2SyncStream.readRecord(Rx2SyncStream.java:50)
+	at org.neo4j.fabric.bolt.BoltQueryExecutionImpl$QueryExecutionImpl.request(BoltQueryExecutionImpl.java:179)
+	at org.neo4j.bolt.runtime.AbstractCypherAdapterStream.handleRecords(AbstractCypherAdapterStream.java:104)
+	at org.neo4j.bolt.v3.messaging.ResultHandler.onPullRecords(ResultHandler.java:41)
+	at org.neo4j.bolt.v4.messaging.PullResultConsumer.consume(PullResultConsumer.java:42)
+	at org.neo4j.bolt.runtime.statemachine.impl.TransactionStateMachine$State.consumeResult(TransactionStateMachine.java:511)
+	at org.neo4j.bolt.runtime.statemachine.impl.TransactionStateMachine$State$2.streamResult(TransactionStateMachine.java:355)
+	at org.neo4j.bolt.runtime.statemachine.impl.TransactionStateMachine.streamResult(TransactionStateMachine.java:94)
+	at org.neo4j.bolt.v4.runtime.InTransactionState.processStreamResultMessage(InTransactionState.java:73)
+	at org.neo4j.bolt.v4.runtime.AbstractStreamingState.processUnsafe(AbstractStreamingState.java:49)
+	at org.neo4j.bolt.v4.runtime.InTransactionState.processUnsafe(InTransactionState.java:60)
+	at org.neo4j.bolt.v3.runtime.FailSafeBoltStateMachineState.process(FailSafeBoltStateMachineState.java:48)
+	at org.neo4j.bolt.runtime.statemachine.impl.AbstractBoltStateMachine.nextState(AbstractBoltStateMachine.java:143)
+	at org.neo4j.bolt.runtime.statemachine.impl.AbstractBoltStateMachine.process(AbstractBoltStateMachine.java:91)
+	at org.neo4j.bolt.messaging.BoltRequestMessageReader.lambda$doRead$1(BoltRequestMessageReader.java:90)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.lambda$enqueue$0(DefaultBoltConnection.java:148)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.processNextBatchInternal(DefaultBoltConnection.java:237)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.processNextBatch(DefaultBoltConnection.java:172)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.processNextBatch(DefaultBoltConnection.java:162)
+	at org.neo4j.bolt.runtime.scheduling.ExecutorBoltScheduler.executeBatch(ExecutorBoltScheduler.java:246)
+	at org.neo4j.bolt.runtime.scheduling.ExecutorBoltScheduler.lambda$scheduleBatchOrHandleError$3(ExecutorBoltScheduler.java:229)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-08-28 07:42:53.755+0000 WARN  Graph creation failed Invalid relationship projection, one or more relationship types not found: 'verb'
+java.lang.IllegalArgumentException: Invalid relationship projection, one or more relationship types not found: 'verb'
+	at org.neo4j.graphalgo.core.GraphDimensionsValidation.checkValidRelationshipTypePredicate(GraphDimensionsValidation.java:58)
+	at org.neo4j.graphalgo.core.GraphDimensionsValidation.validate(GraphDimensionsValidation.java:41)
+	at org.neo4j.graphalgo.core.loading.NativeFactory.build(NativeFactory.java:133)
+	at org.neo4j.graphalgo.core.GraphLoader.graphStore(GraphLoader.java:47)
+	at org.neo4j.graphalgo.catalog.GraphCreateProc.createGraph(GraphCreateProc.java:164)
+	at org.neo4j.graphalgo.catalog.GraphCreateProc.lambda$create$0(GraphCreateProc.java:80)
+	at org.neo4j.graphalgo.BaseProc.runWithExceptionLogging(BaseProc.java:98)
+	at org.neo4j.graphalgo.catalog.GraphCreateProc.create(GraphCreateProc.java:78)
+	at org.neo4j.kernel.impl.proc.GeneratedProcedure_create3039722635249319.apply(Unknown Source)
+	at org.neo4j.procedure.impl.ProcedureRegistry.callProcedure(ProcedureRegistry.java:208)
+	at org.neo4j.procedure.impl.GlobalProceduresRegistry.callProcedure(GlobalProceduresRegistry.java:323)
+	at org.neo4j.kernel.impl.newapi.AllStoreHolder.callProcedure(AllStoreHolder.java:966)
+	at org.neo4j.kernel.impl.newapi.AllStoreHolder.procedureCallRead(AllStoreHolder.java:869)
+	at org.neo4j.cypher.internal.runtime.interpreted.CallSupport$.$anonfun$callReadOnlyProcedure$2(CallSupport.scala:51)
+	at org.neo4j.cypher.internal.runtime.interpreted.CallSupport$.callProcedure(CallSupport.scala:98)
+	at org.neo4j.cypher.internal.runtime.interpreted.CallSupport$.callReadOnlyProcedure(CallSupport.scala:53)
+	at org.neo4j.cypher.internal.runtime.interpreted.TransactionBoundQueryContext.callReadOnlyProcedure(TransactionBoundQueryContext.scala:880)
+	at org.neo4j.cypher.internal.planning.ExceptionTranslatingQueryContext.callReadOnlyProcedure(ExceptionTranslatingQueryContext.scala:203)
+	at org.neo4j.cypher.internal.runtime.LazyReadOnlyCallMode.callProcedure(ProcedureCallMode.scala:52)
+	at org.neo4j.cypher.internal.runtime.interpreted.pipes.ProcedureCallPipe.call(ProcedureCallPipe.scala:87)
+	at org.neo4j.cypher.internal.runtime.interpreted.pipes.ProcedureCallPipe.$anonfun$internalCreateResultsByAppending$1(ProcedureCallPipe.scala:73)
+	at scala.collection.Iterator$$anon$11.nextCur(Iterator.scala:484)
+	at scala.collection.Iterator$$anon$11.hasNext(Iterator.scala:490)
+	at org.neo4j.cypher.internal.runtime.pipelined.operators.SlottedPipeHeadOperator$OTask.operate(SlottedPipeOperator.scala:151)
+	at org.neo4j.cypher.internal.runtime.pipelined.operators.OperatorWithInterpretedDBHitsProfiling.operateWithProfile(SlottedPipeOperator.scala:78)
+	at org.neo4j.cypher.internal.runtime.pipelined.PipelineTask.executeOperators(PipelineTask.scala:62)
+	at org.neo4j.cypher.internal.runtime.pipelined.PipelineTask.executeWorkUnit(PipelineTask.scala:52)
+	at org.neo4j.cypher.internal.runtime.pipelined.Worker.executeTask(Worker.scala:135)
+	at org.neo4j.cypher.internal.runtime.pipelined.Worker.workOnQuery(Worker.scala:91)
+	at org.neo4j.cypher.internal.runtime.pipelined.execution.CallingThreadExecutingQuery.request(CallingThreadExecutingQuery.scala:41)
+	at org.neo4j.cypher.internal.PipelinedRuntime$PipelinedRuntimeResult.request(PipelinedRuntime.scala:426)
+	at org.neo4j.cypher.internal.result.StandardInternalExecutionResult.request(StandardInternalExecutionResult.scala:99)
+	at org.neo4j.cypher.internal.result.ClosingExecutionResult.request(ClosingExecutionResult.scala:145)
+	at org.neo4j.fabric.stream.QuerySubject$BasicQuerySubject$1.doRequest(QuerySubject.java:184)
+	at org.neo4j.fabric.stream.QuerySubject$BasicQuerySubject$1.request(QuerySubject.java:167)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.request(Operators.java:2089)
+	at reactor.core.publisher.StrictSubscriber.request(StrictSubscriber.java:138)
+	at org.neo4j.fabric.stream.Rx2SyncStream$RecordSubscriber.request(Rx2SyncStream.java:129)
+	at org.neo4j.fabric.stream.Rx2SyncStream.maybeRequest(Rx2SyncStream.java:91)
+	at org.neo4j.fabric.stream.Rx2SyncStream.readRecord(Rx2SyncStream.java:50)
+	at org.neo4j.fabric.bolt.BoltQueryExecutionImpl$QueryExecutionImpl.request(BoltQueryExecutionImpl.java:179)
+	at org.neo4j.bolt.runtime.AbstractCypherAdapterStream.handleRecords(AbstractCypherAdapterStream.java:104)
+	at org.neo4j.bolt.v3.messaging.ResultHandler.onPullRecords(ResultHandler.java:41)
+	at org.neo4j.bolt.v4.messaging.PullResultConsumer.consume(PullResultConsumer.java:42)
+	at org.neo4j.bolt.runtime.statemachine.impl.TransactionStateMachine$State.consumeResult(TransactionStateMachine.java:511)
+	at org.neo4j.bolt.runtime.statemachine.impl.TransactionStateMachine$State$2.streamResult(TransactionStateMachine.java:355)
+	at org.neo4j.bolt.runtime.statemachine.impl.TransactionStateMachine.streamResult(TransactionStateMachine.java:94)
+	at org.neo4j.bolt.v4.runtime.InTransactionState.processStreamResultMessage(InTransactionState.java:73)
+	at org.neo4j.bolt.v4.runtime.AbstractStreamingState.processUnsafe(AbstractStreamingState.java:49)
+	at org.neo4j.bolt.v4.runtime.InTransactionState.processUnsafe(InTransactionState.java:60)
+	at org.neo4j.bolt.v3.runtime.FailSafeBoltStateMachineState.process(FailSafeBoltStateMachineState.java:48)
+	at org.neo4j.bolt.runtime.statemachine.impl.AbstractBoltStateMachine.nextState(AbstractBoltStateMachine.java:143)
+	at org.neo4j.bolt.runtime.statemachine.impl.AbstractBoltStateMachine.process(AbstractBoltStateMachine.java:91)
+	at org.neo4j.bolt.messaging.BoltRequestMessageReader.lambda$doRead$1(BoltRequestMessageReader.java:90)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.lambda$enqueue$0(DefaultBoltConnection.java:148)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.processNextBatchInternal(DefaultBoltConnection.java:237)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.processNextBatch(DefaultBoltConnection.java:172)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.processNextBatch(DefaultBoltConnection.java:162)
+	at org.neo4j.bolt.runtime.scheduling.ExecutorBoltScheduler.executeBatch(ExecutorBoltScheduler.java:246)
+	at org.neo4j.bolt.runtime.scheduling.ExecutorBoltScheduler.lambda$scheduleBatchOrHandleError$3(ExecutorBoltScheduler.java:229)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-08-28 07:43:04.882+0000 WARN  Graph creation failed Invalid relationship projection, one or more relationship types not found: 'verb'
+java.lang.IllegalArgumentException: Invalid relationship projection, one or more relationship types not found: 'verb'
+	at org.neo4j.graphalgo.core.GraphDimensionsValidation.checkValidRelationshipTypePredicate(GraphDimensionsValidation.java:58)
+	at org.neo4j.graphalgo.core.GraphDimensionsValidation.validate(GraphDimensionsValidation.java:41)
+	at org.neo4j.graphalgo.core.loading.NativeFactory.build(NativeFactory.java:133)
+	at org.neo4j.graphalgo.core.GraphLoader.graphStore(GraphLoader.java:47)
+	at org.neo4j.graphalgo.catalog.GraphCreateProc.createGraph(GraphCreateProc.java:164)
+	at org.neo4j.graphalgo.catalog.GraphCreateProc.lambda$create$0(GraphCreateProc.java:80)
+	at org.neo4j.graphalgo.BaseProc.runWithExceptionLogging(BaseProc.java:98)
+	at org.neo4j.graphalgo.catalog.GraphCreateProc.create(GraphCreateProc.java:78)
+	at org.neo4j.kernel.impl.proc.GeneratedProcedure_create3039722635249319.apply(Unknown Source)
+	at org.neo4j.procedure.impl.ProcedureRegistry.callProcedure(ProcedureRegistry.java:208)
+	at org.neo4j.procedure.impl.GlobalProceduresRegistry.callProcedure(GlobalProceduresRegistry.java:323)
+	at org.neo4j.kernel.impl.newapi.AllStoreHolder.callProcedure(AllStoreHolder.java:966)
+	at org.neo4j.kernel.impl.newapi.AllStoreHolder.procedureCallRead(AllStoreHolder.java:869)
+	at org.neo4j.cypher.internal.runtime.interpreted.CallSupport$.$anonfun$callReadOnlyProcedure$2(CallSupport.scala:51)
+	at org.neo4j.cypher.internal.runtime.interpreted.CallSupport$.callProcedure(CallSupport.scala:98)
+	at org.neo4j.cypher.internal.runtime.interpreted.CallSupport$.callReadOnlyProcedure(CallSupport.scala:53)
+	at org.neo4j.cypher.internal.runtime.interpreted.TransactionBoundQueryContext.callReadOnlyProcedure(TransactionBoundQueryContext.scala:880)
+	at org.neo4j.cypher.internal.planning.ExceptionTranslatingQueryContext.callReadOnlyProcedure(ExceptionTranslatingQueryContext.scala:203)
+	at org.neo4j.cypher.internal.runtime.LazyReadOnlyCallMode.callProcedure(ProcedureCallMode.scala:52)
+	at org.neo4j.cypher.internal.runtime.interpreted.pipes.ProcedureCallPipe.call(ProcedureCallPipe.scala:87)
+	at org.neo4j.cypher.internal.runtime.interpreted.pipes.ProcedureCallPipe.$anonfun$internalCreateResultsByAppending$1(ProcedureCallPipe.scala:73)
+	at scala.collection.Iterator$$anon$11.nextCur(Iterator.scala:484)
+	at scala.collection.Iterator$$anon$11.hasNext(Iterator.scala:490)
+	at org.neo4j.cypher.internal.runtime.pipelined.operators.SlottedPipeHeadOperator$OTask.operate(SlottedPipeOperator.scala:151)
+	at org.neo4j.cypher.internal.runtime.pipelined.operators.OperatorWithInterpretedDBHitsProfiling.operateWithProfile(SlottedPipeOperator.scala:78)
+	at org.neo4j.cypher.internal.runtime.pipelined.PipelineTask.executeOperators(PipelineTask.scala:62)
+	at org.neo4j.cypher.internal.runtime.pipelined.PipelineTask.executeWorkUnit(PipelineTask.scala:52)
+	at org.neo4j.cypher.internal.runtime.pipelined.Worker.executeTask(Worker.scala:135)
+	at org.neo4j.cypher.internal.runtime.pipelined.Worker.workOnQuery(Worker.scala:91)
+	at org.neo4j.cypher.internal.runtime.pipelined.execution.CallingThreadExecutingQuery.request(CallingThreadExecutingQuery.scala:41)
+	at org.neo4j.cypher.internal.PipelinedRuntime$PipelinedRuntimeResult.request(PipelinedRuntime.scala:426)
+	at org.neo4j.cypher.internal.result.StandardInternalExecutionResult.request(StandardInternalExecutionResult.scala:99)
+	at org.neo4j.cypher.internal.result.ClosingExecutionResult.request(ClosingExecutionResult.scala:145)
+	at org.neo4j.fabric.stream.QuerySubject$BasicQuerySubject$1.doRequest(QuerySubject.java:184)
+	at org.neo4j.fabric.stream.QuerySubject$BasicQuerySubject$1.request(QuerySubject.java:167)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.request(Operators.java:2089)
+	at reactor.core.publisher.StrictSubscriber.request(StrictSubscriber.java:138)
+	at org.neo4j.fabric.stream.Rx2SyncStream$RecordSubscriber.request(Rx2SyncStream.java:129)
+	at org.neo4j.fabric.stream.Rx2SyncStream.maybeRequest(Rx2SyncStream.java:91)
+	at org.neo4j.fabric.stream.Rx2SyncStream.readRecord(Rx2SyncStream.java:50)
+	at org.neo4j.fabric.bolt.BoltQueryExecutionImpl$QueryExecutionImpl.request(BoltQueryExecutionImpl.java:179)
+	at org.neo4j.bolt.runtime.AbstractCypherAdapterStream.handleRecords(AbstractCypherAdapterStream.java:104)
+	at org.neo4j.bolt.v3.messaging.ResultHandler.onPullRecords(ResultHandler.java:41)
+	at org.neo4j.bolt.v4.messaging.PullResultConsumer.consume(PullResultConsumer.java:42)
+	at org.neo4j.bolt.runtime.statemachine.impl.TransactionStateMachine$State.consumeResult(TransactionStateMachine.java:511)
+	at org.neo4j.bolt.runtime.statemachine.impl.TransactionStateMachine$State$2.streamResult(TransactionStateMachine.java:355)
+	at org.neo4j.bolt.runtime.statemachine.impl.TransactionStateMachine.streamResult(TransactionStateMachine.java:94)
+	at org.neo4j.bolt.v4.runtime.InTransactionState.processStreamResultMessage(InTransactionState.java:73)
+	at org.neo4j.bolt.v4.runtime.AbstractStreamingState.processUnsafe(AbstractStreamingState.java:49)
+	at org.neo4j.bolt.v4.runtime.InTransactionState.processUnsafe(InTransactionState.java:60)
+	at org.neo4j.bolt.v3.runtime.FailSafeBoltStateMachineState.process(FailSafeBoltStateMachineState.java:48)
+	at org.neo4j.bolt.runtime.statemachine.impl.AbstractBoltStateMachine.nextState(AbstractBoltStateMachine.java:143)
+	at org.neo4j.bolt.runtime.statemachine.impl.AbstractBoltStateMachine.process(AbstractBoltStateMachine.java:91)
+	at org.neo4j.bolt.messaging.BoltRequestMessageReader.lambda$doRead$1(BoltRequestMessageReader.java:90)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.lambda$enqueue$0(DefaultBoltConnection.java:148)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.processNextBatchInternal(DefaultBoltConnection.java:237)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.processNextBatch(DefaultBoltConnection.java:172)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.processNextBatch(DefaultBoltConnection.java:162)
+	at org.neo4j.bolt.runtime.scheduling.ExecutorBoltScheduler.executeBatch(ExecutorBoltScheduler.java:246)
+	at org.neo4j.bolt.runtime.scheduling.ExecutorBoltScheduler.lambda$scheduleBatchOrHandleError$3(ExecutorBoltScheduler.java:229)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-08-28 07:43:17.707+0000 WARN  Graph creation failed Invalid relationship projection, one or more relationship types not found: '动词'
+java.lang.IllegalArgumentException: Invalid relationship projection, one or more relationship types not found: '动词'
+	at org.neo4j.graphalgo.core.GraphDimensionsValidation.checkValidRelationshipTypePredicate(GraphDimensionsValidation.java:58)
+	at org.neo4j.graphalgo.core.GraphDimensionsValidation.validate(GraphDimensionsValidation.java:41)
+	at org.neo4j.graphalgo.core.loading.NativeFactory.build(NativeFactory.java:133)
+	at org.neo4j.graphalgo.core.GraphLoader.graphStore(GraphLoader.java:47)
+	at org.neo4j.graphalgo.catalog.GraphCreateProc.createGraph(GraphCreateProc.java:164)
+	at org.neo4j.graphalgo.catalog.GraphCreateProc.lambda$create$0(GraphCreateProc.java:80)
+	at org.neo4j.graphalgo.BaseProc.runWithExceptionLogging(BaseProc.java:98)
+	at org.neo4j.graphalgo.catalog.GraphCreateProc.create(GraphCreateProc.java:78)
+	at org.neo4j.kernel.impl.proc.GeneratedProcedure_create3039722635249319.apply(Unknown Source)
+	at org.neo4j.procedure.impl.ProcedureRegistry.callProcedure(ProcedureRegistry.java:208)
+	at org.neo4j.procedure.impl.GlobalProceduresRegistry.callProcedure(GlobalProceduresRegistry.java:323)
+	at org.neo4j.kernel.impl.newapi.AllStoreHolder.callProcedure(AllStoreHolder.java:966)
+	at org.neo4j.kernel.impl.newapi.AllStoreHolder.procedureCallRead(AllStoreHolder.java:869)
+	at org.neo4j.cypher.internal.runtime.interpreted.CallSupport$.$anonfun$callReadOnlyProcedure$2(CallSupport.scala:51)
+	at org.neo4j.cypher.internal.runtime.interpreted.CallSupport$.callProcedure(CallSupport.scala:98)
+	at org.neo4j.cypher.internal.runtime.interpreted.CallSupport$.callReadOnlyProcedure(CallSupport.scala:53)
+	at org.neo4j.cypher.internal.runtime.interpreted.TransactionBoundQueryContext.callReadOnlyProcedure(TransactionBoundQueryContext.scala:880)
+	at org.neo4j.cypher.internal.planning.ExceptionTranslatingQueryContext.callReadOnlyProcedure(ExceptionTranslatingQueryContext.scala:203)
+	at org.neo4j.cypher.internal.runtime.LazyReadOnlyCallMode.callProcedure(ProcedureCallMode.scala:52)
+	at org.neo4j.cypher.internal.runtime.interpreted.pipes.ProcedureCallPipe.call(ProcedureCallPipe.scala:87)
+	at org.neo4j.cypher.internal.runtime.interpreted.pipes.ProcedureCallPipe.$anonfun$internalCreateResultsByAppending$1(ProcedureCallPipe.scala:73)
+	at scala.collection.Iterator$$anon$11.nextCur(Iterator.scala:484)
+	at scala.collection.Iterator$$anon$11.hasNext(Iterator.scala:490)
+	at org.neo4j.cypher.internal.runtime.pipelined.operators.SlottedPipeHeadOperator$OTask.operate(SlottedPipeOperator.scala:151)
+	at org.neo4j.cypher.internal.runtime.pipelined.operators.OperatorWithInterpretedDBHitsProfiling.operateWithProfile(SlottedPipeOperator.scala:78)
+	at org.neo4j.cypher.internal.runtime.pipelined.PipelineTask.executeOperators(PipelineTask.scala:62)
+	at org.neo4j.cypher.internal.runtime.pipelined.PipelineTask.executeWorkUnit(PipelineTask.scala:52)
+	at org.neo4j.cypher.internal.runtime.pipelined.Worker.executeTask(Worker.scala:135)
+	at org.neo4j.cypher.internal.runtime.pipelined.Worker.workOnQuery(Worker.scala:91)
+	at org.neo4j.cypher.internal.runtime.pipelined.execution.CallingThreadExecutingQuery.request(CallingThreadExecutingQuery.scala:41)
+	at org.neo4j.cypher.internal.PipelinedRuntime$PipelinedRuntimeResult.request(PipelinedRuntime.scala:426)
+	at org.neo4j.cypher.internal.result.StandardInternalExecutionResult.request(StandardInternalExecutionResult.scala:99)
+	at org.neo4j.cypher.internal.result.ClosingExecutionResult.request(ClosingExecutionResult.scala:145)
+	at org.neo4j.fabric.stream.QuerySubject$BasicQuerySubject$1.doRequest(QuerySubject.java:184)
+	at org.neo4j.fabric.stream.QuerySubject$BasicQuerySubject$1.request(QuerySubject.java:167)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.request(FluxPeek.java:130)
+	at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.request(Operators.java:2089)
+	at reactor.core.publisher.StrictSubscriber.request(StrictSubscriber.java:138)
+	at org.neo4j.fabric.stream.Rx2SyncStream$RecordSubscriber.request(Rx2SyncStream.java:129)
+	at org.neo4j.fabric.stream.Rx2SyncStream.maybeRequest(Rx2SyncStream.java:91)
+	at org.neo4j.fabric.stream.Rx2SyncStream.readRecord(Rx2SyncStream.java:50)
+	at org.neo4j.fabric.bolt.BoltQueryExecutionImpl$QueryExecutionImpl.request(BoltQueryExecutionImpl.java:179)
+	at org.neo4j.bolt.runtime.AbstractCypherAdapterStream.handleRecords(AbstractCypherAdapterStream.java:104)
+	at org.neo4j.bolt.v3.messaging.ResultHandler.onPullRecords(ResultHandler.java:41)
+	at org.neo4j.bolt.v4.messaging.PullResultConsumer.consume(PullResultConsumer.java:42)
+	at org.neo4j.bolt.runtime.statemachine.impl.TransactionStateMachine$State.consumeResult(TransactionStateMachine.java:511)
+	at org.neo4j.bolt.runtime.statemachine.impl.TransactionStateMachine$State$2.streamResult(TransactionStateMachine.java:355)
+	at org.neo4j.bolt.runtime.statemachine.impl.TransactionStateMachine.streamResult(TransactionStateMachine.java:94)
+	at org.neo4j.bolt.v4.runtime.InTransactionState.processStreamResultMessage(InTransactionState.java:73)
+	at org.neo4j.bolt.v4.runtime.AbstractStreamingState.processUnsafe(AbstractStreamingState.java:49)
+	at org.neo4j.bolt.v4.runtime.InTransactionState.processUnsafe(InTransactionState.java:60)
+	at org.neo4j.bolt.v3.runtime.FailSafeBoltStateMachineState.process(FailSafeBoltStateMachineState.java:48)
+	at org.neo4j.bolt.runtime.statemachine.impl.AbstractBoltStateMachine.nextState(AbstractBoltStateMachine.java:143)
+	at org.neo4j.bolt.runtime.statemachine.impl.AbstractBoltStateMachine.process(AbstractBoltStateMachine.java:91)
+	at org.neo4j.bolt.messaging.BoltRequestMessageReader.lambda$doRead$1(BoltRequestMessageReader.java:90)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.lambda$enqueue$0(DefaultBoltConnection.java:148)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.processNextBatchInternal(DefaultBoltConnection.java:237)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.processNextBatch(DefaultBoltConnection.java:172)
+	at org.neo4j.bolt.runtime.DefaultBoltConnection.processNextBatch(DefaultBoltConnection.java:162)
+	at org.neo4j.bolt.runtime.scheduling.ExecutorBoltScheduler.executeBatch(ExecutorBoltScheduler.java:246)
+	at org.neo4j.bolt.runtime.scheduling.ExecutorBoltScheduler.lambda$scheduleBatchOrHandleError$3(ExecutorBoltScheduler.java:229)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-08-28 07:44:22.357+0000 INFO  [node-store-scan-3] LOADING 0%
+2020-08-28 07:44:22.361+0000 INFO  Node Store Scan: Imported 13 records and 0 properties from 167 KiB (171,990 bytes); took 0.015 s, 860.37 Nodes/s, 11115 KiB/s (11,382,640 bytes/s) (per thread: 215.09 Nodes/s, 2778 KiB/s (2,845,660 bytes/s))
+2020-08-28 07:44:22.443+0000 INFO  Relationship Store Scan: Imported 0 records and 0 properties from 382 KiB (391,680 bytes); took 0.049 s, 0.00 Relationships/s, 7731 KiB/s (7,917,006 bytes/s) (per thread: 0.00 Relationships/s, 1932 KiB/s (1,979,251 bytes/s))
+2020-08-28 07:44:22.446+0000 INFO  [neo4j.BoltWorker-2 [bolt] [/127.0.0.1:60272] ] LOADING 
+2020-08-28 07:44:48.096+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:60272] ] PageRankFactory :: Start
+2020-08-28 07:44:48.108+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:60272] ] PageRankFactory :: Iteration 1 :: Start
+2020-08-28 07:44:48.122+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:60272] ] PageRankFactory :: Iteration 1 :: Finished
+2020-08-28 07:44:48.122+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:60272] ] PageRankFactory :: Finished
+2020-08-28 07:44:48.123+0000 INFO  PageRankWriteProc: overall memory usage 480 Bytes
+2020-08-28 07:44:48.246+0000 INFO  [gds-2] EXPORT 76923%
+2020-08-28 07:45:29.297+0000 INFO  BetweennessCentralityWriteProc: overall memory usage 2648 Bytes
+2020-08-28 07:45:29.313+0000 INFO  [gds-2] EXPORT 76923%
+2020-08-28 07:48:39.435+0000 INFO  [node-store-scan-1] LOADING 50%
+2020-08-28 07:48:39.436+0000 INFO  Node Store Scan: Imported 3,251 records and 0 properties from 167 KiB (171,990 bytes); took 0.008 s, 403,755.23 Nodes/s, 20 MiB/s (21,360,154 bytes/s) (per thread: 100,938.81 Nodes/s, 5214 KiB/s (5,340,038 bytes/s))
+2020-08-28 07:48:39.453+0000 INFO  Relationship Store Scan: Imported 0 records and 0 properties from 382 KiB (391,680 bytes); took 0.013 s, 0.00 Relationships/s, 28 MiB/s (30,256,540 bytes/s) (per thread: 0.00 Relationships/s, 7386 KiB/s (7,564,135 bytes/s))
+2020-08-28 07:48:39.454+0000 INFO  [neo4j.BoltWorker-2 [bolt] [/127.0.0.1:60272] ] LOADING 
+2020-08-28 07:49:04.282+0000 INFO  [neo4j.BoltWorker-2 [bolt] [/127.0.0.1:60272] ] PageRankFactory :: Start
+2020-08-28 07:49:04.285+0000 INFO  [neo4j.BoltWorker-2 [bolt] [/127.0.0.1:60272] ] PageRankFactory :: Iteration 1 :: Start
+2020-08-28 07:49:04.293+0000 INFO  [neo4j.BoltWorker-2 [bolt] [/127.0.0.1:60272] ] PageRankFactory :: Iteration 1 :: Finished
+2020-08-28 07:49:04.294+0000 INFO  [neo4j.BoltWorker-2 [bolt] [/127.0.0.1:60272] ] PageRankFactory :: Finished
+2020-08-28 07:49:04.294+0000 INFO  PageRankWriteProc: overall memory usage 89 KiB
+2020-08-28 07:49:04.295+0000 INFO  [gds-4] EXPORT 307%
+2020-08-28 07:49:15.773+0000 INFO  BetweennessCentralityWriteProc: overall memory usage 533 KiB
+2020-08-28 07:49:15.776+0000 INFO  [gds-2] EXPORT 307%
+2020-08-29 07:27:57.996+0000 INFO  [node-store-scan-0] LOADING 50%
+2020-08-29 07:27:58.001+0000 INFO  Node Store Scan: Imported 3,251 records and 0 properties from 167 KiB (171,990 bytes); took 0.005 s, 592,445.99 Nodes/s, 29 MiB/s (31,342,598 bytes/s) (per thread: 148,111.50 Nodes/s, 7652 KiB/s (7,835,649 bytes/s))
+2020-08-29 07:27:58.016+0000 INFO  Relationship Store Scan: Imported 0 records and 0 properties from 382 KiB (391,680 bytes); took 0.009 s, 0.00 Relationships/s, 43 MiB/s (45,199,993 bytes/s) (per thread: 0.00 Relationships/s, 11035 KiB/s (11,299,998 bytes/s))
+2020-08-29 07:27:58.017+0000 INFO  [neo4j.BoltWorker-2 [bolt] [/127.0.0.1:62247] ] LOADING 
+2020-08-29 07:28:34.909+0000 INFO  [neo4j.BoltWorker-2 [bolt] [/127.0.0.1:62247] ] PageRankFactory :: Start
+2020-08-29 07:28:34.923+0000 INFO  [neo4j.BoltWorker-2 [bolt] [/127.0.0.1:62247] ] PageRankFactory :: Iteration 1 :: Start
+2020-08-29 07:28:34.939+0000 INFO  [neo4j.BoltWorker-2 [bolt] [/127.0.0.1:62247] ] PageRankFactory :: Iteration 1 :: Finished
+2020-08-29 07:28:34.940+0000 INFO  [neo4j.BoltWorker-2 [bolt] [/127.0.0.1:62247] ] PageRankFactory :: Finished
+2020-08-29 07:28:34.940+0000 INFO  PageRankWriteProc: overall memory usage 89 KiB
+2020-08-29 07:28:34.941+0000 INFO  [gds-2] EXPORT 307%
+2020-08-29 07:28:57.834+0000 INFO  BetweennessCentralityWriteProc: overall memory usage 533 KiB
+2020-08-29 07:28:57.836+0000 INFO  [gds-3] EXPORT 307%
+2020-08-29 07:34:03.800+0000 INFO  [neo4j.BoltWorker-1 [bolt] [/127.0.0.1:62067] ] PageRankFactory :: Start
+2020-08-29 07:34:03.801+0000 INFO  [neo4j.BoltWorker-1 [bolt] [/127.0.0.1:62067] ] PageRankFactory :: Iteration 1 :: Start
+2020-08-29 07:34:03.804+0000 INFO  [neo4j.BoltWorker-1 [bolt] [/127.0.0.1:62067] ] PageRankFactory :: Iteration 1 :: Finished
+2020-08-29 07:34:03.804+0000 INFO  [neo4j.BoltWorker-1 [bolt] [/127.0.0.1:62067] ] PageRankFactory :: Finished
+2020-08-29 07:34:03.804+0000 INFO  PageRankWriteProc: overall memory usage 89 KiB
+2020-08-29 07:34:03.805+0000 INFO  [gds-1] EXPORT 307%
+2020-08-29 08:11:20.591+0000 INFO  [node-store-scan-1] LOADING 50%
+2020-08-29 08:11:20.592+0000 INFO  Node Store Scan: Imported 3,251 records and 0 properties from 167 KiB (171,990 bytes); took 0.002 s, 1,444,043.00 Nodes/s, 72 MiB/s (76,395,249 bytes/s) (per thread: 361,010.75 Nodes/s, 18 MiB/s (19,098,812 bytes/s))
+2020-08-29 08:11:20.596+0000 INFO  Relationship Store Scan: Imported 0 records and 0 properties from 382 KiB (391,680 bytes); took 0.002 s, 0.00 Relationships/s, 180 MiB/s (189,672,513 bytes/s) (per thread: 0.00 Relationships/s, 45 MiB/s (47,418,128 bytes/s))
+2020-08-29 08:11:20.596+0000 INFO  [neo4j.BoltWorker-2 [bolt] [/127.0.0.1:63977] ] LOADING 
+2020-08-29 08:55:09.608+0000 INFO  [neo4j.BoltWorker-1 [bolt] [/127.0.0.1:63977] ] PageRankFactory :: Start
+2020-08-29 08:55:09.609+0000 INFO  [neo4j.BoltWorker-1 [bolt] [/127.0.0.1:63977] ] PageRankFactory :: Iteration 1 :: Start
+2020-08-29 08:55:09.613+0000 INFO  [neo4j.BoltWorker-1 [bolt] [/127.0.0.1:63977] ] PageRankFactory :: Iteration 1 :: Finished
+2020-08-29 08:55:09.613+0000 INFO  [neo4j.BoltWorker-1 [bolt] [/127.0.0.1:63977] ] PageRankFactory :: Finished
+2020-08-29 08:55:09.614+0000 INFO  PageRankStreamProc: overall memory usage 89 KiB
+2020-08-29 09:01:35.552+0000 INFO  [node-store-scan-0] LOADING 0%
+2020-08-29 09:01:35.553+0000 INFO  Node Store Scan: Imported 13 records and 0 properties from 167 KiB (171,990 bytes); took 0.001 s, 22,770.19 Nodes/s, 287 MiB/s (301,249,557 bytes/s) (per thread: 5,692.55 Nodes/s, 71 MiB/s (75,312,389 bytes/s))
+2020-08-29 09:01:35.558+0000 INFO  Relationship Store Scan: Imported 0 records and 0 properties from 382 KiB (391,680 bytes); took 0.004 s, 0.00 Relationships/s, 95 MiB/s (100,035,602 bytes/s) (per thread: 0.00 Relationships/s, 23 MiB/s (25,008,900 bytes/s))
+2020-08-29 09:01:35.559+0000 INFO  [neo4j.BoltWorker-1 [bolt] [/127.0.0.1:63977] ] LOADING 
+2020-08-29 09:01:58.010+0000 INFO  [neo4j.BoltWorker-1 [bolt] [/127.0.0.1:63977] ] PageRankFactory :: Start
+2020-08-29 09:01:58.011+0000 INFO  [neo4j.BoltWorker-1 [bolt] [/127.0.0.1:63977] ] PageRankFactory :: Iteration 1 :: Start
+2020-08-29 09:01:58.014+0000 INFO  [neo4j.BoltWorker-1 [bolt] [/127.0.0.1:63977] ] PageRankFactory :: Iteration 1 :: Finished
+2020-08-29 09:01:58.014+0000 INFO  [neo4j.BoltWorker-1 [bolt] [/127.0.0.1:63977] ] PageRankFactory :: Finished
+2020-08-29 09:01:58.014+0000 INFO  PageRankStreamProc: overall memory usage 480 Bytes
+2020-08-29 09:05:37.734+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:63977] ] PageRankFactory :: Start
+2020-08-29 09:05:37.735+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:63977] ] PageRankFactory :: Iteration 1 :: Start
+2020-08-29 09:05:37.740+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:63977] ] PageRankFactory :: Iteration 1 :: Finished
+2020-08-29 09:05:37.740+0000 INFO  [neo4j.BoltWorker-5 [bolt] [/127.0.0.1:63977] ] PageRankFactory :: Finished
+2020-08-29 09:05:37.741+0000 INFO  PageRankWriteProc: overall memory usage 89 KiB
+2020-08-29 09:05:37.757+0000 INFO  [gds-1] EXPORT 307%
