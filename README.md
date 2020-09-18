@@ -1,4 +1,4 @@
-Creating a Knowledge Graph concerned with Ba constructions using Neo4j
+Creating a Ba graph with Neo4j
 ----------------------------------------------------------------------------------
  **Ba construction** is one of the special and complex construction in Chinese, There is no construction in other country's language
 that is coincidence with a Ba construction. Depending on the features of Ba construction, it can be divided into several different meanings.
