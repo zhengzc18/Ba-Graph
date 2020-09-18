@@ -7,7 +7,7 @@ The **Neo4j** is the most popular way of building contexts. This project created
 
 DATA MODEL
 -----------------------------------------------------------------------------------
-![Alt text](file:///Users/jaesoon/Desktop/Screen%20Shot%202020-09-09%20at%2010.14.24%20PM.png/?raw=true "Optional Title")
+[![Screen-Shot-2020-09-09-at-10-14-24-PM.png](https://i.postimg.cc/hP6VVTLR/Screen-Shot-2020-09-09-at-10-14-24-PM.png)](https://postimg.cc/ZCP9S9sw)
 
 
 
