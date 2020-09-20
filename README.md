@@ -9,6 +9,17 @@ DATA MODEL
 -----------------------------------------------------------------------------------
 [![Screen-Shot-2020-09-09-at-10-14-24-PM.png](https://i.postimg.cc/hP6VVTLR/Screen-Shot-2020-09-09-at-10-14-24-PM.png)](https://postimg.cc/ZCP9S9sw)
 
+Setup Database
+-----------------------------------------------------------------------------------
+Install [Neo4j 4.1](https://neo4j.com/download/) on Your Desktop, and Set your username and password.
+```
+pip install neo4j-driver==4.1.0
+pip install neo4j==4.1.0
+from neo4j import GraphDatabase
+driver = GraphDatabase.driver("bolt://localhost:7687", auth=("neo4j", "password"))
+session = driver.session();
+```
+
 
 
 
