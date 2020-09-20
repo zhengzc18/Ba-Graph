@@ -11,8 +11,12 @@ DATA MODEL
 
 Setup Database
 -----------------------------------------------------------------------------------
-Install [Neo4j 4.1](https://neo4j.com/download/) on Your Desktop, and Set your username and password.
+Install [Neo4j 4.1](https://neo4j.com/download/) on your desktop, input Username and Password
 
+```
+Username = bagraph_database
+PASSWORD = sera1234
+```
 
 Code
 -----------------------------------------------------------------------------------
