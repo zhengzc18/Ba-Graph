@@ -12,6 +12,10 @@ DATA MODEL
 Setup Database
 -----------------------------------------------------------------------------------
 Install [Neo4j 4.1](https://neo4j.com/download/) on Your Desktop, and Set your username and password.
+
+
+Code
+-----------------------------------------------------------------------------------
 ```
 pip install neo4j-driver==4.1.0
 pip install neo4j==4.1.0
