@@ -38,5 +38,11 @@ MERGE (n:名词 {value: row[1]})
 MERGE (c:其它 {value: row[3]})
 ```
 
-
+Graph Run!
+------------------------------------------------------------------------------------
+```
+CALL db.schema.visualization
+```
+CALL 
+[![bagraph.png](https://i.postimg.cc/DZ1tv3LY/bagraph.png)](https://postimg.cc/Kkv9fV9n)
 
